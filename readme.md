@@ -4,6 +4,7 @@
 * Use concise, semantic HTML5 and CSS3
 * Use no images, style each element using strictly CSS.
 * Implement responsive CSS, so the page dynamically scales based on viewport size.
+* The font you use doesn't matter. Don't worry about attempting to match fonts.
 * Main header navigation should change to black on hover, while footer navigation should change to white on hover.
 * Allowed libraries:
 	* [Bootstrap](http://getbootstrap.com/)
