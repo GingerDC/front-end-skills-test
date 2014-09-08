@@ -1,6 +1,6 @@
 ###Front End Developer Skills Assessment
 
-* Create a static HTML/CSS web page using the included JPG as a reference point.
+* Create a static, **handwritten** HTML/CSS web page using the included JPG as a reference point.
 * Use concise, semantic HTML5 and CSS3
 * Use no images, style each element using strictly CSS.
 * Implement responsive CSS, so the page dynamically scales based on viewport size.
